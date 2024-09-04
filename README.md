@@ -53,5 +53,5 @@ Feel free to explore and get inspired! If you have any questions or feedback, do
 
 ---
 
-## Dive in and let your imagination run wild! 🌈🎨✨
-## Happy designing! 🎨✨
+**Dive in and let your imagination run wild! 🌈🎨✨**
+**Happy designing! 🎨✨**
