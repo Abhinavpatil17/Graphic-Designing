@@ -1,8 +1,8 @@
-# 🎨 My Graphic Design Portfolio 🖌️
+**🎨 My Graphic Design Portfolio 🖌️**
 
 Welcome to my vibrant world of graphic design! 🌈✨
 
-## 📁 Repository Contents
+**📁 Repository Contents**
 
 This repository showcases my creative journey and client projects. Each folder represents a unique client and their design needs.
 
@@ -13,7 +13,7 @@ This repository showcases my creative journey and client projects. Each folder r
 - 🎉 Event Organizers
 - 🚀 Start-ups and Tech Companies
 
-## 🌟 Project Structure: Design Wonderland 🌟
+**🌟 Project Structure: Design Wonderland 🌟**
 
 Step into a world of creativity! Each client folder is a treasure trove of design magic:
 
@@ -30,28 +30,28 @@ Step into a world of creativity! Each client folder is a treasure trove of desig
 
 Explore each folder to witness the transformation from concept to stunning reality! Every final deliverable is a polished gem 💎, approved by the client and ready to shine in the real world. 
 
-## 🛠️ Tools Used
+**🛠️ Tools Used**
 
 - 🎨 Canva
 
-## 🤝 Collaboration
+**🤝 Collaboration**
 
 Interested in working together? Let's create something amazing! 💡
 
 📧 Email: abhinavpatil80124@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/abhinav-patil-developer
 
-## 📜 License
+**📜 License**
 
 All designs are copyrighted to their respective clients. Please do not use or reproduce without permission. ©️
 
-## 🙏 Acknowledgments
+**🙏 Acknowledgments**
 
 A big thank you to all my clients for their trust and collaboration! 🎉
 
----
-
 Feel free to explore and get inspired! If you have any questions or feedback, don't hesitate to reach out. 
+
+---
 
 ## Dive in and let your imagination run wild! 🌈🎨✨
 ## Happy designing! 🎨✨
